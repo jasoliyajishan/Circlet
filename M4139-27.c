@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() 
+main() 
 {
     int i, j;
 
@@ -13,6 +13,6 @@ int main()
         printf("\n");
     }
 
-    return 0;
+  
 }
 
