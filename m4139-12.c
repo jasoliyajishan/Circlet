@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+main() {
     int n=5, i, j;
 
    
@@ -15,6 +15,6 @@ int main() {
         printf("\n");
     }
 
-    return 0;
+
 }
 
