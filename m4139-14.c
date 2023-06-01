@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main() {
-    int n=5, i, j;
+main()
+{
+ n=5, i, j;
 
     
 
@@ -14,6 +15,6 @@ int main() {
         printf("\n");
     }
 
-    return 0;
+  
 }
 
